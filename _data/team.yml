@@ -1,0 +1,42 @@
+local_organizers:
+  - name: "Marco Zennaro"
+    role: "Local Organizer"
+    affiliation:
+      role: "Research Scientist"
+      org_name: "ICTP"
+      url: "https://www.ictp.it/"
+    website:
+      title: "users.ictp.it/~mzennaro"
+      url: "http://users.ictp.it/~mzennaro/"
+    image_url: "/assets/team/marco.jpg"
+
+other:
+  - name: "Brian Plancher"
+    affiliation:
+      role: "Assistant Professor"
+      org_name: "Barnard College, Columbia University"
+      url: "https://barnard.edu/"
+    website:
+      title: "brianplancher.com"
+      url: "https://brianplancher.com/"
+    image_url: "/assets/team/brian.jpg"
+
+  - name: "Vijay Janpa Reddi"
+    affiliation:
+      role: "Associate Professor"
+      org_name: "Harvard University"
+      url: "https://www.seas.harvard.edu/"
+    website:
+      title: "scholar.harvard.edu/vijay-janapa-reddi"
+      url: "ttps://scholar.harvard.edu/vijay-janapa-reddi"
+    image_url: "/assets/team/vijay.png"
+
+  - name: "Marcelo Rovai"
+    affiliation:
+      role: "Professor"
+      org_name: "UNIFEI"
+      url: "https://unifei.edu.br/"
+    website:
+      title: "linkedin.com/in/marcelo-jose-rovai-brazil-chile"
+      url: "https://www.linkedin.com/in/marcelo-jose-rovai-brazil-chile/"
+    image_url: "/assets/team/marcelo.jpeg"

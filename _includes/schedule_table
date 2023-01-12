@@ -1,0 +1,43 @@
+{% if include.table_data %}
+<table>
+  <thead>
+    <tr>
+      {% for header in include.table_data.headers %}
+      <th>{{ header }}</th>
+      {% endfor %}
+    </tr>
+  </thead>
+  <tbody>
+    {% for day in include.table_data.days %}
+    <tr>
+      <td style="width: 75px">Day {{ day.number }}</td>
+      <td>{{ day.dayOfWeek }}</td>
+      <td><b>{{ day.name }}</b><br>
+        {% for item in day.schedule %}
+        &nbsp;&nbsp;&nbsp;<i class="GMT_TIME">{{ item.time }}</i>&nbsp; {{ item.name }}<br>
+        {% endfor %}
+      </td>
+      <td>
+        {% for speaker in day.speakers %}
+          <div style="max-width:350px;">
+            {% if speaker.name %}
+              {% include speaker speaker = speaker %}<br>
+              {% for link in speaker.links %}
+                <a href="{% if link.local %}{{ site.baseurl }}{% endif %}{{ link.url }}">{{ link.title }}</a>{% if forloop.last == false %} | {% endif %}
+              {% endfor %}
+            {% else %}
+              {% for link in speaker.links %}
+                <a href="{% if link.local %}{{ site.baseurl }}{% endif %}{{ link.url }}">{{ link.title }}</a>{% if forloop.last == false %}{% if link.related_to_next %} | {% else %} <br/> {% endif %}{% endif %}
+              {% endfor %}
+            {% endif %}
+          </div>
+          {% if forloop.last == false %}
+          <hr style="height:3px;"/>
+          {% endif %}
+        {% endfor %}
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endif %}
