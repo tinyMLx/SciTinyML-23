@@ -7,120 +7,100 @@ headers:
 days:
   - number: "1"
     dayOfWeek: "Monday"
-    name: "TBD"
+    name: "Introduction to (tiny)ML"
     schedule:
       - time: "1:00:00 PM"
         name: "TBD"
     speakers:
-      - name: "TBD"
-        website: "TBD"
-        affiliation:
-          name: "TBD"
-          website: "TBD"
-        links:
-          - title: "Slides"
-            url: "/assets/slides/TBD.pdf"
-            local: "1"
-            related_to_next: ""
-          - title: "Video"
-            url: "TBD"
+      # - name: "TBD"
+      #   website: "TBD"
+      #   affiliation:
+      #     name: "TBD"
+      #     website: "TBD"
+      #   links:
+      #     - title: "Slides"
+      #       url: "/assets/slides/TBD.pdf"
+      #       local: "1"
+      #       related_to_next: ""
+      #     - title: "Video"
+      #       url: "TBD"
 
   - number: "2"
     dayOfWeek: "Tuesday"
-    name: "TBD"
+    name: "Hands-on Introduction to TinyML"
     schedule:
       - time: "1:00:00 PM"
         name: "TBD"
     speakers:
-      - name: "TBD"
-        website: "TBD"
-        affiliation:
-          name: "TBD"
-          website: "TBD"
-        links:
-          - title: "Slides"
-            url: "/assets/slides/TBD.pdf"
-            local: "1"
-            related_to_next: ""
-          - title: "Video"
-            url: "TBD"
+      # - name: "TBD"
+      #   website: "TBD"
+      #   affiliation:
+      #     name: "TBD"
+      #     website: "TBD"
+      #   links:
+      #     - title: "Slides"
+      #       url: "/assets/slides/TBD.pdf"
+      #       local: "1"
+      #       related_to_next: ""
+      #     - title: "Video"
+      #       url: "TBD"
 
   - number: "3"
     dayOfWeek: "Wednesday"
-    name: "TBD"
+    name: "Expanding Your Options and Devices"
     schedule:
       - time: "1:00:00 PM"
         name: "TBD"
     speakers:
-      - name: "TBD"
-        website: "TBD"
-        affiliation:
-          name: "TBD"
-          website: "TBD"
-        links:
-          - title: "Slides"
-            url: "/assets/slides/TBD.pdf"
-            local: "1"
-            related_to_next: ""
-          - title: "Video"
-            url: "TBD"
-
-  - number: "3"
-    dayOfWeek: "Wednesday"
-    name: "TBD"
-    schedule:
-      - time: "1:00:00 PM"
-        name: "TBD"
-    speakers:
-      - name: "TBD"
-        website: "TBD"
-        affiliation:
-          name: "TBD"
-          website: "TBD"
-        links:
-          - title: "Slides"
-            url: "/assets/slides/TBD.pdf"
-            local: "1"
-            related_to_next: ""
-          - title: "Video"
-            url: "TBD"
+      # - name: "TBD"
+      #   website: "TBD"
+      #   affiliation:
+      #     name: "TBD"
+      #     website: "TBD"
+      #   links:
+      #     - title: "Slides"
+      #       url: "/assets/slides/TBD.pdf"
+      #       local: "1"
+      #       related_to_next: ""
+      #     - title: "Video"
+      #       url: "TBD"
 
   - number: "4"
     dayOfWeek: "Thursday"
-    name: "TBD"
+    name: "TinyML Show and Tell"
     schedule:
       - time: "1:00:00 PM"
         name: "TBD"
     speakers:
-      - name: "TBD"
-        website: "TBD"
-        affiliation:
-          name: "TBD"
-          website: "TBD"
-        links:
-          - title: "Slides"
-            url: "/assets/slides/TBD.pdf"
-            local: "1"
-            related_to_next: ""
-          - title: "Video"
-            url: "TBD"
+      # - name: "TBD"
+      #   website: "TBD"
+      #   affiliation:
+      #     name: "TBD"
+      #     website: "TBD"
+      #   links:
+      #     - title: "Slides"
+      #       url: "/assets/slides/TBD.pdf"
+      #       local: "1"
+      #       related_to_next: ""
+      #     - title: "Video"
+      #       url: "TBD"
 
   - number: "5"
     dayOfWeek: "Friday"
-    name: "TBD"
+    name: "Advanced Scientific TinyML"
     schedule:
       - time: "1:00:00 PM"
         name: "TBD"
     speakers:
-      - name: "TBD"
-        website: "TBD"
-        affiliation:
-          name: "TBD"
-          website: "TBD"
-        links:
-          - title: "Slides"
-            url: "/assets/slides/TBD.pdf"
-            local: "1"
-            related_to_next: ""
-          - title: "Video"
-            url: "TBD"
+      # - name: "TBD"
+      #   website: "TBD"
+      #   affiliation:
+      #     name: "TBD"
+      #     website: "TBD"
+      #   links:
+      #     - title: "Slides"
+      #       url: "/assets/slides/TBD.pdf"
+      #       local: "1"
+      #       related_to_next: ""
+      #     - title: "Video"
+      #       url: "TBD"

@@ -9,25 +9,31 @@ title: false
 
 # Welcome!
 
->SciTinyML: Scientific Use of Machine Learning on Low-Power Devices will be run remotely in English for 2023 from April 17-21.
+>SciTinyML: Scientific Use of Machine Learning on Low-Power Devices will be run remotely in English for 2023 from April 17-21. <br><br><b>We actively soliciting submissions for short talks during our Show and Tell day! Please <a href="TBD">follow this link</a> to submit a talk abstract!</b><br><br>To register to attend please <a href="https://indico.ictp.it/event/10166/">follow this link</a> to the ICTP website.
 
 <div class="message">
   To view the materials and videos from past years SciTinyML workshops and TinyML4D seminars please visit the <a href="https://tinyml.seas.harvard.edu/4D/pastEvents">TinyML4D Past Events</a> page.
 </div>
 
+This year's theme is **Applications and Advanced Topics**. We'll still begin the workshop with our usual open introduction to TinyML through Hands-on Labs on Days 1 and 2 to get everyone up to speed and then will transition toward more application focused and advanced topics (see the schedule below for more details).
+
 SciTinyML is an ICTP Virtual Meeting supported by the [TinyML4D Academic Network](https://tinymledu.org/4D/AcademicNetwork) and open to all.
 
-**TinyML is a subfield of Machine Learning focused on developing models that can be executed on small, realtime, low-power, and low-cost embedded devices. This allows for new scientific applications to be developed at an extremely low cost and at large scale.**
+TinyML is a subfield of Machine Learning focused on developing models that can be executed on small, real-time, low-power, and low-cost embedded devices. This allows for new scientific applications to be developed at an extremely low cost and at large scale.
 
-The TinyML process starts with collecting data from IoT devices, then training the collected dataset to extract knowledge patterns; these patterns are then packaged into a TinyML model that considers the target microprocessor’s limited resources such as memory and processing power. The resulting model is then deployed on embedded devices where it is used to evaluate new sensor data in real-time. Typically, power requirements are in the mW range and below which enables a variety of use-cases targeting battery operated devices. TinyML represents a collaborative effort between the embedded power systems and Machine Learning communities, which traditionally have operated independently.
+TinyML represents a collaborative effort between the embedded power systems and Machine Learning communities, which traditionally have operated independently. TinyML has a significant role to play in achieving the SDGs and facilitating scientific research in areas such as environmental monitoring, physics of complex systems and energy management.
+
+The TinyML process starts with collecting data from IoT devices, then training the collected dataset to extract knowledge patterns; these patterns are then packaged into a TinyML model that considers the target microprocessor’s limited resources such as memory, processing power, and energy.
+
+Through hands-on examples, this workshop will focus on both introductory and advanced topics in TinyML to pave the way to the development of real-world applications.
 
 **Workshop Topics:**
-+ ML general concepts
 + Introduction to TinyML
-+ Getting started with the TinyML training kit
-+ Examples of TinyML applications
++ Getting Started with the TinyML Kit
++ Examples of TinyML Applications
++ The TinyML Development Workflow
 + Scientific Applications of ML
-+ Recent Research and Applications in TinyML
++ Recent Research and Advanced Topics in TinyML
 
 ### Schedule
 
@@ -35,7 +41,7 @@ The TinyML process starts with collecting data from IoT devices, then training t
 
 Full Schedule Table Coming Soon!
 
-<!-- {% include schedule_table table_data = site.data.schedule %} -->
+{% include schedule_table table_data = site.data.schedule %}
 
 <script>
   // top time
@@ -59,4 +65,4 @@ Full Schedule Table Coming Soon!
 Contact [edu@tinyml.org](mailto:edu@tinyml.org) with any questions regarding this workshop.
 
 ### Supporters
-We would like to thank [**ICTP**](https://www.ictp.it/), [**Harvard SEAS**](https://www.seas.harvard.edu/), [**Barnard College**](https://cs.barnard.edu/), and the [**tinyML Foundation**](https://www.tinyml.org/) for their continued leadership and support of all of our TinyML educational content!
+We would like to thank [**ICTP**](https://www.ictp.it/), [**Harvard SEAS**](https://www.seas.harvard.edu/), [**Barnard College**](https://cs.barnard.edu/), the [**Universidade Federal de Itajubá**](https://unifei.edu.br/), and the [**tinyML Foundation**](https://www.tinyml.org/) for their continued leadership and support of all of our TinyML educational content!
