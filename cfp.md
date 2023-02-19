@@ -13,6 +13,7 @@ title: Call for Show and Tell Talks
 We are soliciting **talk abstracts** for our Show and Tell day on Thursday April 20th, 2023.
 
 We want to hear about all of your exciting TinyML projects! These can include classroom projects, research projects, in-progress projects, failed projects -- basically any kind of TinyML project!We are particularly interested in work that discuss:
++ Scientific Applications of TinyML
 + Applications of TinyML for the Global South and for Global Sustainability
 + Aggregated “best practice” suggestions for getting up to speed on new TinyML projects
 + Surprising discoveries gleaned from deploying TinyML into the real world
