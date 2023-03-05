@@ -31,7 +31,8 @@ We will give our prize(s) to the top talks and announce the winners on the last 
 
 ### Submission Instructions
 
-Short talk abstracts should be submitted by **Friday, March 31, 2023 (23:59 AoE)** to **[EasyChair](https://easychair.org/conferences/submission_new?a=30394307)**. 
+Talk abstracts should be submitted by **Friday, March 31, 2023 (23:59 AoE)** -- the submission link will open shortly! 
+<!-- on this **[Google Form](https://docs.google.com/forms/d/e/1FAIpQLSebPUpNPnkG2dOHA1Pc6-jLr_-wM0rLVMQnwN2jfEwVXVawVQ/viewform)**.  -->
 
 ### Important Dates
 
