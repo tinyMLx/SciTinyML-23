@@ -23,7 +23,7 @@ We want to hear about all of your exciting TinyML projects! These can include cl
 
 ### A Hybrid Talk Format
 
-All talks will be pre-recoreded and submitted *before the start of the conference*. These videos will be played live during SciTinyML and followed by live Q&A.
+All talks will be pre-recoreded and played live during SciTinyML and followed by **live Q&A**.
 
 ### Prizes and Report
 
@@ -31,14 +31,15 @@ We will give our prize(s) to the top talks and announce the winners on the last 
 
 ### Submission Instructions
 
-Talk abstracts should be submitted by **Friday, March 31, 2023 (23:59 AoE)** -- the submission link will open shortly! 
+Talk abstracts should be submitted by **Friday, April, 7, 2023**. To submit your abstract simply [register to attend SciTinyML](https://indico.ictp.it/event/10166) and fill out the talk abstract section of the form!
+
 <!-- on this **[Google Form](https://docs.google.com/forms/d/e/1FAIpQLSebPUpNPnkG2dOHA1Pc6-jLr_-wM0rLVMQnwN2jfEwVXVawVQ/viewform)**.  -->
 
 ### Important Dates
 
-+ **Submission Deadline:** Friday, March 31, 2023 (23:59 AoE)
-+ **Author Notification:** Friday, April, 7, 2023
-+ **Video Submission Deadline**: Friday, April 14, 2023 (23:59 AoE)
++ **Submission Deadline:** Friday, April, 7, 2023
++ **Author Notification:** Tuesday, April 11, 2023 
++ **Video Submission Deadline**: Tuesday, April 18, 2023
 + **Show and Tell Day:** Thursday, April 20, 2023
 
 ### Questions?

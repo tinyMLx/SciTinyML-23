@@ -9,7 +9,7 @@ title: false
 
 # Welcome!
 
->SciTinyML: Scientific Use of Machine Learning on Low-Power Devices will be run remotely in English for 2023 from April 17-21.<br>Register to attend for free by **Friday, April 7, 2023** on the [ICTP website](https://indico.ictp.it/event/10166)!<br><br><b>We actively soliciting submissions for short talks during our Show and Tell day! Please <a href="https://tinymledu.org/SciTinyML-23/cfp/">follow this link</a> to learn more!</b>
+>SciTinyML: Scientific Use of Machine Learning on Low-Power Devices will be run remotely in English for 2023 from April 17-21.<br>Register to attend for free by **Friday, April 7, 2023** on the [ICTP website](https://indico.ictp.it/event/10166)!<br><b>We are also actively soliciting submissions for short talks during our Show and Tell day! Please <a href="https://tinymledu.org/SciTinyML-23/cfp/">follow this link</a> to learn more!</b>
 
 <!-- <br/>Submit your talk abstracts by **Friday, March 31, 2023 (23:59 AoE)** on this **[Google Form](https://docs.google.com/forms/d/e/1FAIpQLSebPUpNPnkG2dOHA1Pc6-jLr_-wM0rLVMQnwN2jfEwVXVawVQ/viewform)**. -->
 
