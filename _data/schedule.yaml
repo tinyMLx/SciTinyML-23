@@ -12,7 +12,7 @@ days:
       - time: "1:00:00 PM"
         name: "Workshop Opening and Schedule"
       - time: "1:30:00 PM"
-        name: "Keynote"
+        name: "Opening Keynote"
       - time: "2:15:00 PM"
         name: "Introduction to Machine Learning"
       - time: "3:15:00 PM"
@@ -25,6 +25,11 @@ days:
         affiliation:
           name: "ICTP"
           website: "https://www.ictp.it/"
+      - name: "Jenny Plunkett"
+        website: "https://nl.linkedin.com/in/jennyplunkett"
+        affiliation:
+          name: "Edge Impulse"
+          website: "https://www.edgeimpulse.com/"
       - name: "Diego Mendez Chaves"
         website: "https://ingenieria.javeriana.edu.co/w/departamento-de-ingenier%C3%8Da-electr%C3%93nica-profesores-10"
         affiliation:
