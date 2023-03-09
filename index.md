@@ -41,8 +41,7 @@ Through hands-on examples, this workshop will focus on both introductory and adv
 ### Schedule
 
 <div id = "LOCAL_TIME"></div><br/>
-
-Full Schedule Table Coming Soon!
+**Draft Schedule Subject to Change**
 
 {% include schedule_table table_data = site.data.schedule %}
 
