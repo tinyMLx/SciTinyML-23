@@ -10,8 +10,31 @@ days:
     name: "Introduction to (tiny)ML"
     schedule:
       - time: "1:00:00 PM"
-        name: "TBD"
+        name: "Workshop Opening and Schedule"
+      - time: "1:30:00 PM"
+        name: "Keynote"
+      - time: "2:15:00 PM"
+        name: "Introduction to Machine Learning"
+      - time: "3:15:00 PM"
+        name: "Introduction to Embedded ML"
+      - time: "3:55:00 PM"
+        name: "Day Closing"
     speakers:
+      - name: "Marco Zennaro"
+        website: "http://users.ictp.it/~mzennaro/"
+        affiliation:
+          name: "ICTP"
+          website: "https://www.ictp.it/"
+      - name: "Diego Mendez Chaves"
+        website: "https://ingenieria.javeriana.edu.co/w/departamento-de-ingenier%C3%8Da-electr%C3%93nica-profesores-10"
+        affiliation:
+          name: "Pontificia Universidad Javeriana"
+          website: "https://www.javeriana.edu.co/"
+      - name: "Robert Thas John"
+        website: "https://www.linkedin.com/in/robert-john-b137952b/"
+        affiliation:
+          name: "Versus"
+          website: "https://versus.africa/"
       # - name: "TBD"
       #   website: "TBD"
       #   affiliation:
@@ -30,8 +53,38 @@ days:
     name: "Hands-on Introduction to TinyML"
     schedule:
       - time: "1:00:00 PM"
-        name: "TBD"
+        name: "Day Opening"
+      - time: "1:05:00 PM"
+        name: "Edge Impulse Overview and New Features"
+      - time: "1:40:00 PM"
+        name: "Hands-on Motion Classification and Anomaly Detection"
+      - time: "3:10:00 PM"
+        name: "AI Ethics: Avoiding Bias"
+      - time: "3:55:00 PM"
+        name: "Day Closing"
     speakers:
+      - name: "Marco Zennaro"
+        website: "http://users.ictp.it/~mzennaro/"
+        affiliation:
+          name: "ICTP"
+          website: "https://www.ictp.it/"
+      - name: "Shawn Hymel"
+        website: "https://shawnhymel.com/"
+        affiliation:
+          name: "Edge Impulse"
+          website: "https://www.edgeimpulse.com/"
+      - name: "José Antonio Bagur Nájera"
+        website: "https://www.uvg.edu.gt/impacto/jose-antonio-bagur/"
+        affiliation:
+          name: "Universidad del Valle de Guatemala"
+          website: "https://www.uvg.edu.gt/"
+      - name: "Viola Schiaffonati"
+        website: "https://www.deib.polimi.it/eng/people/dettagli/70304"
+        name2: "Manuel Roveri"
+        website2: "https://roveri.faculty.polimi.it/"
+        affiliation:
+          name: "Politecnico di Milano"
+          website: "https://www.polimi.it/"
       # - name: "TBD"
       #   website: "TBD"
       #   affiliation:
@@ -50,8 +103,50 @@ days:
     name: "Expanding Your Options and Devices"
     schedule:
       - time: "1:00:00 PM"
-        name: "TBD"
+        name: "Day Opening"
+      - time: "1:05:00 PM"
+        name: "Leveraging Other Microcontrollers and Sensors"
+      - time: "2:00:00 PM"
+        name: "WebUSB and FOMO"
+      - time: "2:30:00 PM"
+        name: "Adding IoT to a Project with Blues Wireless"
+      - time: "2:55:00 PM"
+        name: "Industry 5.0 with Jetson Nano"
+      - time: "3:25:00 PM"
+        name: "MLOps: Scaling Deployments"
+      - time: "3:55:00 PM"
+        name: "Day Closing"
     speakers:
+      - name: "Marco Zennaro"
+        website: "http://users.ictp.it/~mzennaro/"
+        affiliation:
+          name: "ICTP"
+          website: "https://www.ictp.it/"
+      - name: "Marcelo Rovai"
+        website: "https://github.com/Mjrovai"
+        affiliation:
+          name: "Federal University of Itajuba - UNIFEI"
+          website: "https://unifei.edu.br/"
+      - name: "Jeremy Ellis"
+        website: "https://github.com/hpssjellis"
+        affiliation:
+          name: "School District 75 Mission"
+          website: "https://en.wikipedia.org/wiki/School_District_75_Mission"
+      - name: "Peter Ing"
+        website: "https://www.linkedin.com/in/peter-ing-8baba8143/"
+        affiliation:
+          name: "TFG (The Foschini Group)"
+          website: "https://es.linkedin.com/company/foschini"
+      - name: "Marcelo Pias"
+        website: "https://scholar.google.com/citations?user=X_zoltAAAAAJ&hl=es"
+        affiliation:
+          name: "Federal University of Rio Grande - FURG"
+          website: "https://www.furg.br/"
+      - name: "Colby Banbury"
+        website: "https://www.colbybanbury.com/"
+        affiliation:
+          name: "Harvard University"
+          website: "https://seas.harvard.edu/"
       # - name: "TBD"
       #   website: "TBD"
       #   affiliation:
@@ -70,8 +165,17 @@ days:
     name: "TinyML Show and Tell"
     schedule:
       - time: "1:00:00 PM"
-        name: "TBD"
+        name: "Day Opening"
+      - time: "1:05:00 PM"
+        name: "Selected Show and Tell Talks"
+      - time: "3:55:00 PM"
+        name: "Day Closing"
     speakers:
+      - name: "Brian Plancher"
+        website: "https://brianplancher.com/"
+        affiliation:
+          name: "Barnard College, Columbia University"
+          website: "https://barnard.edu/"
       # - name: "TBD"
       #   website: "TBD"
       #   affiliation:
@@ -90,8 +194,33 @@ days:
     name: "Advanced Scientific TinyML"
     schedule:
       - time: "1:00:00 PM"
-        name: "TBD"
+        name: "Day Opening"
+      - time: "1:05:00 PM"
+        name: "Scientific Applications of TinyML 1"
+      - time: "1:50:00 PM"
+        name: "TinyML and Sustainability"
+      - time: "2:20:00 PM"
+        name: "TinyML and Robotics"
+      - time: "2:50:00 PM"
+        name: "Scientific Applications of TinyML 2"
+      - time: "3:55:00 PM"
+        name: "Workshop Closing and Future Events"
     speakers:
+      - name: "Marco Zennaro"
+        website: "http://users.ictp.it/~mzennaro/"
+        affiliation:
+          name: "ICTP"
+          website: "https://www.ictp.it/"
+      - name: "Matthew Stewart"
+        website: "https://mpstewart.io/"
+        affiliation:
+          name: "Harvard University"
+          website: "https://seas.harvard.edu/"
+      - name: "Bardienus Duisterhof "
+        website: "https://www.bart-ai.com/"
+        affiliation:
+          name: "Carnegie Mellon University - CMU"
+          website: "https://www.ri.cmu.edu/"
       # - name: "TBD"
       #   website: "TBD"
       #   affiliation:
