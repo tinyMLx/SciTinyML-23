@@ -140,16 +140,16 @@ days:
         affiliation:
           name: "Politecnico di Milano"
           website: "https://www.polimi.it/"
-      - name: "Marcelo Pias"
-        website: "https://scholar.google.com/citations?user=X_zoltAAAAAJ&hl=es"
-        affiliation:
-          name: "Federal University of Rio Grande - FURG"
-          website: "https://www.furg.br/"
       - name: "Jeremy Ellis"
         website: "https://github.com/hpssjellis"
         affiliation:
           name: "School District 75 Mission"
           website: "https://en.wikipedia.org/wiki/School_District_75_Mission"
+      - name: "Marcelo Pias"
+        website: "https://scholar.google.com/citations?user=X_zoltAAAAAJ&hl=es"
+        affiliation:
+          name: "Federal University of Rio Grande - FURG"
+          website: "https://www.furg.br/"
       - name: "Peter Ing"
         website: "https://www.linkedin.com/in/peter-ing-8baba8143/"
         affiliation:
