@@ -15,6 +15,7 @@
       <td><b>{{ day.name }}</b><br>
         {% for item in day.schedule %}
         &nbsp;&nbsp;&nbsp;<i class="GMT_TIME">{{ item.time }}</i>&nbsp; {{ item.name }}<br>
+        {% if item.name2 %} &emsp;&emsp;&emsp;&emsp;&emsp;{{ item.name2 }}<br> {% endif %}
         {% endfor %}
       </td>
       <td>
