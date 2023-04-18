@@ -36,16 +36,27 @@ days:
         affiliation:
           name: "Edge Impulse"
           website: "https://www.edgeimpulse.com/"
+        links:
+          - title: "Slides"
+            url: "SciTinyML-23/assets/slides/Day1-1-Dan-Jenny-SciTinyML_Keynote"
+            local: "1"
       - name: "Diego Mendez Chaves"
         website: "https://ingenieria.javeriana.edu.co/w/departamento-de-ingenier%C3%8Da-electr%C3%93nica-profesores-10"
         affiliation:
           name: "Pontificia Universidad Javeriana"
           website: "https://www.javeriana.edu.co/"
+        links:
+          - title: "Slides"
+            url: "SciTinyML-23/assets/slides/Day1-2-Diego-ML_Intro_DL"
+            local: "1"
       - name: "Robert Thas John"
         website: "https://www.linkedin.com/in/robert-john-b137952b/"
         affiliation:
           name: "Versus"
           website: "https://versus.africa/"
+        - title: "Slides"
+            url: "SciTinyML-23/assets/slides/Day1-3-Robert-TinyML_Intro"
+            local: "1"  
       # - name: "TBD"
       #   website: "TBD"
       #   affiliation:
