@@ -25,6 +25,9 @@ days:
         affiliation:
           name: "ICTP"
           website: "https://www.ictp.it/"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/Day1-0-Marco-Welcome_Workshop.pdf"
       - name: "Daniel Situnayake"
         website: "https://www.linkedin.com/in/situnayake"
         name2: "Jenny Plunkett"
