@@ -54,7 +54,8 @@ days:
         affiliation:
           name: "Versus"
           website: "https://versus.africa/"
-        - title: "Slides"
+        links:
+          - title: "Slides"
             url: "/assets/slides/Day1-3-Robert-TinyML_Intro.pdf"
             local: "1"  
       # - name: "TBD"
