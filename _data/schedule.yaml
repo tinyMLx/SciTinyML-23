@@ -27,7 +27,7 @@ days:
           website: "https://www.ictp.it/"
         links:
           - title: "Slides"
-            url: "/assets/slides/Day1-0-Marco-Welcome_Workshop.pdf"
+            url: "SciTinyML-23/assets/slides/Day1-0-Marco-Welcome_Workshop.pdf"
             local: "1"
       - name: "Daniel Situnayake"
         website: "https://www.linkedin.com/in/situnayake"
