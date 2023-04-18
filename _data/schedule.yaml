@@ -40,6 +40,9 @@ days:
           - title: "Slides"
             url: "/assets/slides/Day1-1-Dan-Jenny-SciTinyML_Keynote.pdf"
             local: "1"
+            related_to_next: ""
+          - title: "Video"
+            url: "https://youtu.be/UCbSBfzg4yA"
       - name: "Diego Mendez Chaves"
         website: "https://ingenieria.javeriana.edu.co/w/departamento-de-ingenier%C3%8Da-electr%C3%93nica-profesores-10"
         affiliation:
@@ -49,6 +52,9 @@ days:
           - title: "Slides"
             url: "/assets/slides/Day1-2-Diego-ML_Intro_DL.pdf"
             local: "1"
+            related_to_next: ""
+          - title: "Video"
+            url: "https://youtu.be/cgNfr0b1uuk"
       - name: "Robert Thas John"
         website: "https://www.linkedin.com/in/robert-john-b137952b/"
         affiliation:
@@ -58,6 +64,9 @@ days:
           - title: "Slides"
             url: "/assets/slides/Day1-3-Robert-TinyML_Intro.pdf"
             local: "1"  
+            related_to_next: ""
+          - title: "Video"
+            url: ""
       # - name: "TBD"
       #   website: "TBD"
       #   affiliation:
@@ -104,6 +113,9 @@ days:
           - title: "Slides"
             url: "/assets/slides/Day2-1-Shawn-edge-impulse-and-new-features.pdf"
             local: "1"
+            related_to_next: ""
+          - title: "Video"
+            url: "https://youtu.be/Asebo9TkJuk"
       - name: "José Antonio Bagur Nájera"
         website: "https://www.uvg.edu.gt/impacto/jose-antonio-bagur/"
         affiliation:
@@ -122,6 +134,9 @@ days:
           - title: "Slides"
             url: "/assets/slides/Day2-3-Rovai-Leveraging_MCUs_Data_Collection_with_EI.pdf"
             local: "1"
+            related_to_next: ""
+          - title: "Video"
+            url: "https://youtu.be/2KBPq_826WM"
       # - name: "TBD"
       #   website: "TBD"
       #   affiliation:
