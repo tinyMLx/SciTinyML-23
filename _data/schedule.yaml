@@ -28,6 +28,7 @@ days:
         links:
           - title: "Slides"
             url: "/assets/slides/Day1-0-Marco-Welcome_Workshop.pdf"
+            local: "1"
       - name: "Daniel Situnayake"
         website: "https://www.linkedin.com/in/situnayake"
         name2: "Jenny Plunkett"
