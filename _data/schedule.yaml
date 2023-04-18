@@ -91,21 +91,37 @@ days:
         affiliation:
           name: "ICTP"
           website: "https://www.ictp.it/"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/Day2-0-Marco-Welcome_Day2.pdf"
+            local: "1"  
       - name: "Shawn Hymel"
         website: "https://shawnhymel.com/"
         affiliation:
           name: "Edge Impulse"
           website: "https://www.edgeimpulse.com/"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/Day2-1-Shawn-edge-impulse-and-new-features.pdf"
+            local: "1"
       - name: "José Antonio Bagur Nájera"
         website: "https://www.uvg.edu.gt/impacto/jose-antonio-bagur/"
         affiliation:
           name: "Universidad del Valle de Guatemala"
           website: "https://www.uvg.edu.gt/"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/Day2-2-Jose-Advanced_Anomaly_Detection.pdf"
+            local: "1"
       - name: "Marcelo Rovai"
         website: "https://github.com/Mjrovai"
         affiliation:
           name: "Federal University of Itajuba - UNIFEI"
           website: "https://unifei.edu.br/"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/Day2-3-Rovai-Leveraging_MCUs_Data_Collection_with_EI.pdf"
+            local: "1"
       # - name: "TBD"
       #   website: "TBD"
       #   affiliation:
