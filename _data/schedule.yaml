@@ -223,7 +223,7 @@ days:
           website: "https://es.linkedin.com/company/foschini"
       links:
           - title: "Slides"
-            url: "/assets/slides/Day3-5-Peter-Blues"
+            url: "/assets/slides/Day3-5-Peter-Blues.pdf"
             local: "1"  
       # - name: "TBD"
       #   website: "TBD"
