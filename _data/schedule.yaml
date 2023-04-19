@@ -221,6 +221,10 @@ days:
         affiliation:
           name: "TFG (The Foschini Group)"
           website: "https://es.linkedin.com/company/foschini"
+      links:
+          - title: "Slides"
+            url: "/assets/slides/Day3-5-Peter-Blues"
+            local: "1"  
       # - name: "TBD"
       #   website: "TBD"
       #   affiliation:
