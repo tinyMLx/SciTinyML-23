@@ -178,6 +178,10 @@ days:
         affiliation:
           name: "ICTP"
           website: "https://www.ictp.it/"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/Day3-0-Marco-Welcome.pdf"
+            local: "1"
       - name: "Colby Banbury"
         website: "https://www.colbybanbury.com/"
         affiliation:
@@ -190,16 +194,28 @@ days:
         affiliation:
           name: "Politecnico di Milano"
           website: "https://www.polimi.it/"
+        links:
+          - title: "Slides"
+            url: "Day3-2-Roveri-Schiaffonati.pdf"
+            local: "1"    
       - name: "Jeremy Ellis"
         website: "https://github.com/hpssjellis"
         affiliation:
           name: "School District 75 Mission"
           website: "https://en.wikipedia.org/wiki/School_District_75_Mission"
+        links:
+          - title: "Slides"
+            url: "Day3-3-Jeremy-toy-RobotCar-FOMO-Observations.pdf"
+            local: "1"  
       - name: "Marcelo Pias"
         website: "https://scholar.google.com/citations?user=X_zoltAAAAAJ&hl=es"
         affiliation:
           name: "Federal University of Rio Grande - FURG"
           website: "https://www.furg.br/"
+        links:
+          - title: "Slides"
+            url: "Day3-4-Pias-Industry_5_0.pdf"
+            local: "1"  
       - name: "Peter Ing"
         website: "https://www.linkedin.com/in/peter-ing-8baba8143/"
         affiliation:
