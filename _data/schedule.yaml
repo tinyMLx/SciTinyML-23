@@ -125,6 +125,9 @@ days:
           - title: "Slides"
             url: "/assets/slides/Day2-2-Jose-Advanced_Anomaly_Detection.pdf"
             local: "1"
+            related_to_next: ""
+          - title: "Video"
+            url: "https://youtu.be/Vbfh9ot-jYY"
       - name: "Marcelo Rovai"
         website: "https://github.com/Mjrovai"
         affiliation:
