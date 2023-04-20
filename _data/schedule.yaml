@@ -271,16 +271,17 @@ days:
       - time: "3:50:00 PM"
         name: "Day Closing"
     speakers:
-      - name: "Marco Zennaro"
-        website: "http://users.ictp.it/~mzennaro/"
-        affiliation:
-          name: "ICTP"
-          website: "https://www.ictp.it/"
       - name: "Brian Plancher"
         website: "https://brianplancher.com/"
         affiliation:
           name: "Barnard College, Columbia University"
           website: "https://barnard.edu/"
+        links:
+          - title: "Google Slides"
+            url: "https://docs.google.com/presentation/d/1zj1T9wBXnhZMRS0VKM-90XTnOH8aSGeVPjnNUROSJtg/"
+          - title: "PDF Slides"
+            url: "/assets/slides/Day4-0-Brian-Opening.pdf"
+            local: "1"
       - name: "Segun Adebayo"
         website: "https://ng.linkedin.com/in/segun-adebayo-088b17141"
         affiliation:
@@ -330,14 +331,14 @@ days:
         name: "Day Opening"
       - time: "1:05:00 PM"
         name: "TinyML and Robotics"
-      - time: "1:35:00 PM"
+      - time: "1:50:00 PM"
         name: "Machine Learning Sensors"
-      - time: "2:05:00 PM"
+      - time: "2:20:00 PM"
         name: "TinyML and Sustainability"
-      - time: "2:35:00 PM"
-        name: "Scientific Applications of TinyML"
-      - time: "3:35:00 PM"
+      - time: "2:50:00 PM"
         name: "Workshop Closing and Future Events"
+      - time: "3:10:00 PM"
+        name: "TinyML4D Regional Networking"
     speakers:
       - name: "Marco Zennaro"
         website: "http://users.ictp.it/~mzennaro/"
@@ -359,11 +360,6 @@ days:
         affiliation:
           name: "Barnard College, Columbia University"
           website: "https://barnard.edu/"
-      # - name: "TBD"
-      #   website: "TBD"
-      #   affiliation:
-      #     name: "TBD"
-      #     website: "TBD"
       #   links:
       #     - title: "Slides"
       #       url: "/assets/slides/TBD.pdf"
