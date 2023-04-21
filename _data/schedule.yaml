@@ -350,6 +350,10 @@ days:
         affiliation:
           name: "Carnegie Mellon University - CMU"
           website: "https://www.ri.cmu.edu/"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/Day5-1-Bart-TinyRobots.pdf"
+            local: "1"
       - name: "Matthew Stewart"
         website: "https://mpstewart.io/"
         affiliation:
