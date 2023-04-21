@@ -359,6 +359,10 @@ days:
         affiliation:
           name: "Harvard University"
           website: "https://seas.harvard.edu/"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/Day5-2-Matt-MLSensors.pdf"
+            local: "1"
       - name: "Brian Plancher"
         website: "https://brianplancher.com/"
         affiliation:
