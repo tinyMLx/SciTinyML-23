@@ -360,10 +360,11 @@ days:
         affiliation:
           name: "Barnard College, Columbia University"
           website: "https://barnard.edu/"
-      #   links:
-      #     - title: "Slides"
-      #       url: "/assets/slides/TBD.pdf"
-      #       local: "1"
-      #       related_to_next: ""
+        links:
+          - title: "Google Slides"
+            url: "https://docs.google.com/presentation/d/1q-n43u3efiqioE-rfFfoQN1BbjGMk5nDT1Jcajr9wuo/"
+          - title: "PDF Slides"
+            url: "/assets/slides/Day5-3-Brian-SustainableTinyML.pdf"
+            local: "1"
       #     - title: "Video"
       #       url: "TBD"
