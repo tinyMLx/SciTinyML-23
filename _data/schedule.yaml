@@ -207,9 +207,9 @@ days:
           - title: "Slides"
             url: "/assets/slides/Day3-2-Roveri-Schiaffonati.pdf"
             local: "1"
-            related_to_next: "https://youtu.be/IlSd_g9N6SE"
+            related_to_next: ""
           - title: "Video"
-            url: ""
+            url: "https://youtu.be/IlSd_g9N6SE"
       - name: "Jeremy Ellis"
         website: "https://github.com/hpssjellis"
         affiliation:
@@ -337,6 +337,10 @@ days:
         affiliation:
           name: "Carnegie Mellon University, Nigeria"
           website: "https://www.africa.engineering.cmu.edu/"
+      - name: "Show & Tell Fuul Presentations"
+        links:
+          - title: "Video"
+            url: "https://youtu.be/uoM_IjXjDFY"
 
   - number: "5"
     dayOfWeek: "Friday"
@@ -355,11 +359,6 @@ days:
       - time: "3:25:00 PM"
         name: "TinyML4D Regional Networking"
     speakers:
-      - name: "Marco Zennaro"
-        website: "http://users.ictp.it/~mzennaro/"
-        affiliation:
-          name: "ICTP"
-          website: "https://www.ictp.it/"
       - name: "Bardienus Duisterhof "
         website: "https://www.bart-ai.com/"
         affiliation:
@@ -369,6 +368,9 @@ days:
           - title: "Slides"
             url: "/assets/slides/Day5-1-Bart-TinyRobots.pdf"
             local: "1"
+            related_to_next: ""
+          - title: "Video"
+            url: "https://youtu.be/r3x3_9X5ZjA"
       - name: "Matthew Stewart"
         website: "https://mpstewart.io/"
         affiliation:
@@ -378,6 +380,9 @@ days:
           - title: "Slides"
             url: "/assets/slides/Day5-2-Matt-MLSensors.pdf"
             local: "1"
+            related_to_next: ""
+          - title: "Video"
+            url: "https://youtu.be/yfXKAew-6ug"
       - name: "Brian Plancher"
         website: "https://brianplancher.com/"
         affiliation:
@@ -389,5 +394,16 @@ days:
           - title: "PDF Slides"
             url: "/assets/slides/Day5-3-Brian-SustainableTinyML.pdf"
             local: "1"
+            related_to_next: ""
+          - title: "Video"
+            url: "https://youtu.be/Akj9BgnaStY"
+      - name: "Marco Zennaro"
+        website: "http://users.ictp.it/~mzennaro/"
+        affiliation:
+          name: "ICTP"
+          website: "https://www.ictp.it/"  
+        links:
+          - title: "Video"
+            url: "https://youtu.be/7IvV1yzYT1c"          
       #     - title: "Video"
       #       url: "TBD"
