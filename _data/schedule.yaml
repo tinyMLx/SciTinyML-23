@@ -337,7 +337,9 @@ days:
         affiliation:
           name: "Carnegie Mellon University, Nigeria"
           website: "https://www.africa.engineering.cmu.edu/"
-      - name: "Show & Tell Fuul Presentations"
+      - name: "Show & Tell Presentations"
+        affiliation:
+          name: "Universities"
         links:
           - title: "Video"
             url: "https://youtu.be/uoM_IjXjDFY"
