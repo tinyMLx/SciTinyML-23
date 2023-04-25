@@ -405,7 +405,12 @@ days:
           name: "ICTP"
           website: "https://www.ictp.it/"  
         links:
+          - title: "PDF Slides"
+            url: "/assets/slides/Day5-4-Marco-Closing_ICTP_Workshop"
+            local: "1"
+            related_to_next: ""
           - title: "Video"
-            url: "https://youtu.be/7IvV1yzYT1c"          
+            url: "https://youtu.be/7IvV1yzYT1c"      
+            
       #     - title: "Video"
       #       url: "TBD"
