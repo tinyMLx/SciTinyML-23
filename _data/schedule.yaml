@@ -206,7 +206,10 @@ days:
         links:
           - title: "Slides"
             url: "/assets/slides/Day3-2-Roveri-Schiaffonati.pdf"
-            local: "1"    
+            local: "1"
+            related_to_next: "https://youtu.be/IlSd_g9N6SE"
+          - title: "Video"
+            url: ""
       - name: "Jeremy Ellis"
         website: "https://github.com/hpssjellis"
         affiliation:
@@ -215,7 +218,10 @@ days:
         links:
           - title: "Slides"
             url: "/assets/slides/Day3-3-Jeremy-toy-RobotCar-FOMO-Observations.pdf"
-            local: "1"  
+            local: "1"
+            related_to_next: ""
+          - title: "Video"
+            url: "https://youtu.be/dMvBqEb2OjA"
       - name: "Marcelo Pias"
         website: "https://scholar.google.com/citations?user=X_zoltAAAAAJ&hl=es"
         affiliation:
@@ -225,6 +231,9 @@ days:
           - title: "Slides"
             url: "/assets/slides/Day3-4-Pias-Industry_5_0.pdf"
             local: "1"  
+            related_to_next: ""
+          - title: "Video"
+            url: "https://youtu.be/kloSPepzXmM"
       - name: "Peter Ing"
         website: "https://www.linkedin.com/in/peter-ing-8baba8143/"
         affiliation:
@@ -233,7 +242,10 @@ days:
         links:
           - title: "Slides"
             url: "/assets/slides/Day3-5-Peter-Blues.pdf"
-            local: "1"  
+            local: "1" 
+            related_to_next: ""
+          - title: "Video"
+            url: "https://youtu.be/5wOQlj_yOyc
       # - name: "TBD"
       #   website: "TBD"
       #   affiliation:
